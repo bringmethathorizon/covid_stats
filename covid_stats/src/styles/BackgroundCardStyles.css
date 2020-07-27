@@ -1,0 +1,10 @@
+.Background {
+    /*text-align: center;*/
+    /*color: #E5E5E5;*/
+    /*flex: 1;*/
+    /*justify-content: space-between;*/
+    background-color: #EDF7FF;
+    position: absolute;
+    width: 1440px;
+    height: 788px;
+}

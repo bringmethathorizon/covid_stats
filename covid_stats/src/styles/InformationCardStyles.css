@@ -1,0 +1,12 @@
+.Card {
+    position: relative;
+    width: 800px;
+    height: 142px;
+    left: 120px;
+    top: 167px;
+    margin-bottom: 20px;
+    background: #FFF;
+    border-radius: 5px;
+
+}
+

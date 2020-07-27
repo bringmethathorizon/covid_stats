@@ -1,0 +1,111 @@
+.InfoCard {
+    justify-content: space-between;
+}
+
+.Date {
+    position: absolute;
+    width: 79px;
+    height: 26px;
+    left: 50px;
+    top: 58px;
+
+    /*font-family: Roboto;*/
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+
+
+    color: #242632;
+}
+
+.StatusActive {
+    position: absolute;
+    width: 50px;
+    height: 21px;
+    margin-left: 360px;
+    margin-top: 30px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #242632;
+
+}
+
+.StatusDeaths {
+    position: absolute;
+    width: 50px;
+    height: 21px;
+    /*padding-left: 39px;*/
+    margin-left: 585px;
+    margin-top: 30px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #242632;
+}
+
+.StatusConfirmed{
+    position: absolute;
+    width: 50px;
+    height: 21px;
+    margin-left: 360px;
+    margin-top: 91px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #242632;
+}
+
+.StatusRecovered {
+    position: absolute;
+    width: 50px;
+    height: 21px;
+    /*padding-left: 39px;*/
+    margin-left: 585px;
+    margin-top: 91px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #242632;
+}
+
+.CountryDropdown {
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 17px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #242632;
+}
+
+.AmountOfCasesText {
+    position: static;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+
+    padding: 10px;
+}
+
+
+
+

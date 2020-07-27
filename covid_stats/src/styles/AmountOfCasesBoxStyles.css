@@ -1,0 +1,28 @@
+.Box {
+    display: flex;
+    flex-direction: row;
+    width: 62px;
+    height: 41px;
+    margin-bottom: 22px;
+    background: #EDF7FF;
+    border-radius: 5px;
+}
+.firstDigitContainer {
+    display: flex;
+    flex-direction: column;
+    padding-top: 18px;
+    margin-right: 163px;
+    margin-left: 494px;
+}
+
+.secondDigitContainer {
+    display: flex;
+    flex-direction: column;
+    padding-top: 18px;
+}
+
+.digitContainer {
+    display: flex;
+    flex-direction: row;
+}
+
